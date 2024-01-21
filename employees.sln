@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "employee-apis", "employee-apis\employee-apis.csproj", "{E962E8B7-E6E4-4E2D-8FE0-5E9ABBC6DC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8AE96703-646A-430E-B309-1873260EE560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7D345F4B-137D-441C-A326-A2AF47317A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E962E8B7-E6E4-4E2D-8FE0-5E9ABBC6DC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E962E8B7-E6E4-4E2D-8FE0-5E9ABBC6DC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E962E8B7-E6E4-4E2D-8FE0-5E9ABBC6DC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E962E8B7-E6E4-4E2D-8FE0-5E9ABBC6DC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE96703-646A-430E-B309-1873260EE560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE96703-646A-430E-B309-1873260EE560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE96703-646A-430E-B309-1873260EE560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE96703-646A-430E-B309-1873260EE560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D345F4B-137D-441C-A326-A2AF47317A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D345F4B-137D-441C-A326-A2AF47317A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D345F4B-137D-441C-A326-A2AF47317A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D345F4B-137D-441C-A326-A2AF47317A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BAC91C-6409-4C96-8303-D318AE1687AE}
+	EndGlobalSection
+EndGlobal
